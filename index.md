@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# お買い得・オススメ　ボードゲーム情報 by @[jins_h](https://twitter.com/Jins_h)  
+アフィリエイトリンクになっているので、購入の際はリンク先から購入いただけると嬉しいです。  
+価格・在庫状況は記載時点のものです。  
+価格変動・在庫切れなどは頻繁に起こることですのでご理解ください。
 
-You can use the [editor on GitHub](https://github.com/Jins-H/BoardGameSaleInfo/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### CV -履歴書-
+[[駿河屋] 履歴書 日本語版 (CV)](https://goo.gl/3z9TTY ) 4000円  
+[[Amazon] ＣＶ-履歴書-](https://amzn.to/2N26agi ) 4104円  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+所持済み。
+最近お気に入りのお買い物ゲーム。
+人生追体験テーマはやっぱり盛り上がる！「子供生まれた！お金がかかる～」「CEOになりたい！」など言いながら遊ぶのが楽しいし。ルールも簡単。
 
-### Markdown
+### CVポケット
+[[駿河屋] CVポケット](https://goo.gl/nm6DC1 ) 2000円  
+[[Amazon] CVポケット](https://amzn.to/2MZfX6Y ) 2327円  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jins-H/BoardGameSaleInfo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+最近お気に入りの人生追体験ゲームがプレイ時間が短く、箱もコンパクトになって登場。
+戦略性はオリジナルゲームよりも増してるという噂もあり、気になる所！
