@@ -1,7 +1,10 @@
-# お買い得・オススメ　ボードゲーム情報 by @[jins_h](https://twitter.com/Jins_h)  
+# オススメ ボードゲーム情報 by @[jins_h](https://twitter.com/Jins_h)  
 アフィリエイトリンクになっているので、購入の際はリンク先から購入いただけると嬉しいです。  
 価格・在庫状況は記載時点のものです。  
-価格変動・在庫切れなどは頻繁に起こることですのでご理解ください。
+価格変動・在庫切れなどは頻繁に起こることですのでご理解ください。  
+更新履歴はGitHubのHistory機能で見ることができます。  
+→[更新履歴](https://github.com/Jins-H/BoardGameSaleInfo/commits/master/index.md)  
+GitHubを使ったことが無い方には見難いと思うので、更新履歴は気にしないのがオススメです。
 
 ### CV -履歴書- 日本語版
 [[駿河屋] ＣＶ-履歴書- ](https://goo.gl/3z9TTY ) 4000円  
