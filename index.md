@@ -2,12 +2,22 @@
 アフィリエイトリンクになっているので、購入の際はリンク先から購入いただけると嬉しいです。  
 価格・在庫状況は記載時点のものです。  
 価格変動・在庫切れなどは頻繁に起こることですのでご理解ください。  
-更新履歴はGitHubのHistory機能で見ることができます。  
-→[更新履歴](https://github.com/Jins-H/BoardGameSaleInfo/commits/master/index.md)  
-GitHubを使ったことが無い方には見難いと思うので、更新履歴は気にしないのがオススメです。
+一覧のゲーム名をクリックすると、下部の詳細に移動します。
+詳細には感想や注目ポイントなども記載しています。  
+詳細から駿河屋やAmazonのリンクをクリックして購入してください。  
 
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
+- [キー・トゥ・ザ・シティ：ロンドン（訳付き）](#キートゥザシティロンドン訳付き)
+- [オケアノス（訳つき）](#オケアノス訳つき)
+- [パパ・パオロ（訳つき）](#パパパオロ訳つき)
+- [ツーモルトロイヤル（訳つき）](#ツーモルトロイヤル訳つき)
+- [ラ・イスラ（訳なし）](#ライスラ訳なし)
+- [ベルズ 日本語版](#ベルズ-日本語版)
+- [グリュックス 日本語版](#グリュックス-日本語版)
+- [クウィックス デュエル(訳つき)](#クウィックス-デュエル訳つき)
+- [バレッタ（訳なし）](#バレッタ訳なし)
+- [デジャブ（訳付き）](#デジャブ訳付き)
 - [アウトリブ 日本語版](#アウトリブ-日本語版)
 - [タージ・マハル 日本語版](#タージマハル-日本語版)
 - [CV -履歴書- 日本語版](#cv--履歴書--日本語版)
@@ -29,10 +39,10 @@ GitHubを使ったことが無い方には見難いと思うので、更新履�
 - [倉庫の街 (訳つき)](#倉庫の街-訳つき)
 - [キングスロード](#キングスロード)
 - [ロールプレイヤー 日本語版](#ロールプレイヤー-日本語版)
-- [エアライン ヨーロッパ 日本語版](#エアライン-ヨーロッパ-日本語版)
+- [~~エアライン ヨーロッパ 日本語版~~](#エアライン-ヨーロッパ-日本語版)
 - [ロビンソンクルーソー(訳なし)](#ロビンソンクルーソー訳なし)
 - [フォークラウンアンドキングダム（訳なし）](#フォークラウンアンドキングダム訳なし)
-- [ズーロレット拡張 XXL（訳なし）](#ズーロレット拡張-xxl訳なし)
+- [~~ズーロレット拡張 XXL（訳なし）~~](#ズーロレット拡張-xxl訳なし)
 - [ギルド・オブ・ロンドン(訳なし)](#ギルドオブロンドン訳なし)
 - [ハーバー 日本語版](#ハーバー-日本語版)
 - [スモールワールド拡張 スカイアイランド](#スモールワールド拡張-スカイアイランド)
@@ -119,20 +129,20 @@ Amazonの日本語版は5500円まで高騰してました。
 
 # アウトリブ 日本語版
 <a href="https://affiliate.suruga-ya.jp/modules/af/af_jump.php?user_id=2842&amp;goods_url=https%3A%2F%2Fwww.suruga-ya.jp%2Fproduct%2Fdetail%2F607115402001" rel="nofollow"><img src="https://www.suruga-ya.jp/pics/boxart_m/607115402m.jpg"></a>  
-[[駿河屋]アウトリブ](https://goo.gl/b8WCU4 ) 3730円  
+[[駿河屋]アウトリブ](https://goo.gl/b8WCU4 ) 3850円  
 
 購入検討中。戦争によって破壊された地球で、資源や道具をあつめ生き残るゲーム！映画や漫画のようなテーマでテンション上がる！キャラクターによって使える施設が違うのもリプレイ性高くてグッド。拡大再生産も大好き。BGG7.6。
 
 # タージ・マハル 日本語版
 <a href="https://affiliate.suruga-ya.jp/modules/af/af_jump.php?user_id=2842&amp;goods_url=https%3A%2F%2Fwww.suruga-ya.jp%2Fproduct%2Fdetail%2F607129452000" rel="nofollow"><img src="https://www.suruga-ya.jp/pics/boxart_m/607129452m.jpg"></a>  
-[[駿河屋] 新品 タージ・マハル](https://goo.gl/wdj3K8 ) 5180円  
+[[駿河屋] 新品 タージ・マハル](https://goo.gl/wdj3K8 ) 5480円  
 [[駿河屋] 中古 タージ・マハル](https://goo.gl/QG5kqi ) 5150円
 
 クニツィア名作ゲームがリメイク&日本語版で登場！1時間程度で終わる、個性のある競り。各種ブログで安定の高評価。BGG7.3。まだ持ってないならマストバイでは？2人プレイに対応したのも嬉しい。
 
 # CV -履歴書- 日本語版
 <a href="https://affiliate.suruga-ya.jp/modules/af/af_jump.php?user_id=2842&amp;goods_url=https%3A%2F%2Fwww.suruga-ya.jp%2Fproduct%2Fdetail%2F607086137001" rel="nofollow"><img src="https://www.suruga-ya.jp/pics/boxart_m/607086137m.jpg"></a>  
-[[駿河屋] ＣＶ-履歴書- ](https://goo.gl/3z9TTY ) 4000円  
+[[駿河屋] ＣＶ-履歴書- ](https://goo.gl/3z9TTY ) 3980円  
 [[Amazon] ＣＶ-履歴書-](https://amzn.to/2N26agi ) 4104円
 
 所持済み。
@@ -141,61 +151,61 @@ Amazonの日本語版は5500円まで高騰してました。
 
 # CVポケット 日本語版
 <a href="https://affiliate.suruga-ya.jp/modules/af/af_jump.php?user_id=2842&amp;goods_url=https%3A%2F%2Fwww.suruga-ya.jp%2Fproduct%2Fdetail%2F607506699001" rel="nofollow"><img src="https://www.suruga-ya.jp/pics/boxart_m/607506699m.jpg"></a>  
-[[駿河屋] CVポケット](https://goo.gl/nm6DC1 ) 2000円  
-[[Amazon] CVポケット](https://amzn.to/2MZfX6Y ) 2327円  
+~~[[駿河屋] CVポケット](https://goo.gl/nm6DC1 ) 2000円~~  
+[[Amazon] CVポケット](https://amzn.to/2MZfX6Y ) 2557円  
 
 最近お気に入りの人生追体験ゲームがプレイ時間が短く、箱もコンパクトになって登場。
 戦略性はオリジナルゲームよりも増してるという噂もあり、気になる所！
 
 # スマッシュ・アップ 日本語版
 <a href="https://affiliate.suruga-ya.jp/modules/af/af_jump.php?user_id=2842&amp;goods_url=https%3A%2F%2Fwww.suruga-ya.jp%2Fproduct%2Fdetail%2F607500329001" rel="nofollow"><img src="https://www.suruga-ya.jp/pics/boxart_m/607500329m.jpg"></a>  
-[[駿河屋] スマッシュ・アップ](https://goo.gl/2mdjFs ) 1950円
+[[駿河屋] スマッシュ・アップ](https://goo.gl/2mdjFs ) 2600円
 
 買おうと思ってツイート控えてた作品。スマホアプリで買ったら思った以上に面白いくて、実物も欲しくなった！個性豊かなキャラクター能力が楽しい！
 
 # フィールド・オブ・グリーン 日本語版
 <a href="https://affiliate.suruga-ya.jp/modules/af/af_jump.php?user_id=2842&amp;goods_url=https%3A%2F%2Fwww.suruga-ya.jp%2Fproduct%2Fdetail%2F607122686001" rel="nofollow"><img src="https://www.suruga-ya.jp/pics/boxart_m/607122686m.jpg"></a>  
-[[駿河屋] 新品 フィールド・オブ・グリーン](https://goo.gl/DC35ZG ) 3080円  
+[[駿河屋] 新品 フィールド・オブ・グリーン](https://goo.gl/DC35ZG ) 3380円  
 [[駿河屋] 中古 フィールド・オブ・グリーン](https://goo.gl/WuJGQH ) 2950円
 
 キックスターター発の作品。カードドラフト&農場作成。値下がってるなー。気になるなー。と思ってた所、ゲーマーから面白いという情報を入手！気になる！
 
 # クロンダイク ラッシュ (訳つき)
 <a href="https://affiliate.suruga-ya.jp/modules/af/af_jump.php?user_id=2842&amp;goods_url=https%3A%2F%2Fwww.suruga-ya.jp%2Fproduct%2Fdetail%2F607117210000" rel="nofollow"><img src="https://www.suruga-ya.jp/pics/boxart_m/607117210m.jpg"></a>  
-[[駿河屋] 新品 クロンダイク ラッシュ](https://goo.gl/Qu9Mrz ) 2500円  
-[[駿河屋] 中古 クロンダイク ラッシュ](https://goo.gl/PRMJvQ ) 2280円
+[[駿河屋] 新品 クロンダイク ラッシュ](https://goo.gl/Qu9Mrz ) 2780円  
+[[駿河屋] 中古 クロンダイク ラッシュ](https://goo.gl/PRMJvQ ) 2250円
 
 所持済。これ、絶対買いだから！面白いし、コンポーネントもしっかりしてるし、これは破格！競り&株券システムなので、相場感は少し難しい。けれど、皆で相場感狂って高値で落札&途中から金欠の悲鳴 というプレイ感もめっちゃ楽しい。比較的ゲーマーからの評判が良い。
 
 # 神殿之謎(訳つき)
 <a href="https://affiliate.suruga-ya.jp/modules/af/af_jump.php?user_id=2842&amp;goods_url=https%3A%2F%2Fwww.suruga-ya.jp%2Fproduct%2Fdetail%2F607127880001" rel="nofollow"><img src="https://www.suruga-ya.jp/pics/boxart_m/607127880m.jpg"></a>  
-[[駿河屋]神殿之謎](https://goo.gl/Couji3 ) 2330円
+[[駿河屋]神殿之謎](https://goo.gl/Couji3 ) 2300円
 
 所持済み。ロンデルシステムで円形の場を進み宝石を集める。宝石を使って神殿の謎を解いて勝利点を獲得。宝石トークンがキラキラきれい。個人ボード上に宝石を配置するときに若干のパズル要素あり。
 あまりリプレイできてないからリプレイしたい作品。
 
 # ハバナ（訳つき）
 <a href="https://affiliate.suruga-ya.jp/modules/af/af_jump.php?user_id=2842&amp;goods_url=https%3A%2F%2Fwww.suruga-ya.jp%2Fproduct%2Fdetail%2F607020062001" rel="nofollow"><img src="https://www.suruga-ya.jp/pics/boxart_m/607020062m.jpg"></a>  
-[[駿河屋]ハバナ](https://goo.gl/QZGsuP) 3860円
+[[駿河屋]ハバナ](https://goo.gl/QZGsuP) 3950円
 
 購入検討中。建物を建設していくゲーム。建物がカードではなくタイルな点がGood.人物カードの能力をうまく活用する必要があるらしい。BGG6.9.
 
 # ツインイット 日本語版
 <a href="https://affiliate.suruga-ya.jp/modules/af/af_jump.php?user_id=2842&amp;goods_url=https%3A%2F%2Fwww.suruga-ya.jp%2Fproduct%2Fdetail%2F607506340000" rel="nofollow"><img src="https://www.suruga-ya.jp/pics/boxart_m/607506340m.jpg"></a>  
-[[駿河屋] ツインイット 新品](https://goo.gl/YLCWcC ) 1880円
+[[駿河屋] ツインイット 新品](https://goo.gl/YLCWcC ) 1980円
 
 Twitterで面白いという噂を聞き付けました！気になるけど、私は下手くそな予感ー。
 
 # カフェファタール (訳つき)
 <a href="https://affiliate.suruga-ya.jp/modules/af/af_jump.php?user_id=2842&amp;goods_url=https%3A%2F%2Fwww.suruga-ya.jp%2Fproduct%2Fdetail%2F607126731001" rel="nofollow"><img src="https://www.suruga-ya.jp/pics/boxart_m/607126731m.jpg"></a>  
-[[駿河屋]カフェファタール](https://goo.gl/jAV4bT ) 2710円  
+[[駿河屋]カフェファタール](https://goo.gl/jAV4bT ) 2850円  
 
 プレイ時間30分、5人まで対応。1017年エッセン新作。
 テーマもケーキやピザを集めて作ろう なので初心者やアイスブレークに使いやすそう。
 
 # マーリン（訳つき）
 <a href="https://affiliate.suruga-ya.jp/modules/af/af_jump.php?user_id=2842&amp;goods_url=https%3A%2F%2Fwww.suruga-ya.jp%2Fproduct%2Fdetail%2F607124714000" rel="nofollow"><img src="https://www.suruga-ya.jp/pics/boxart_m/607124714m.jpg"></a>  
-[[駿河屋] マーリン](https://goo.gl/pP9wTH) 6460円
+[[駿河屋] マーリン](https://goo.gl/pP9wTH) 6800円
 
 評判まちまちで購入を躊躇してたが、これがめっちゃ面白い！！ラウンド最初にダイスを4個振って、手番にダイスを1個使って駒を進めてアクション実行。依頼カード、マジョリティ、建造物など得点要素もいくつか。マストバイ！
 
@@ -207,7 +217,7 @@ Twitterで面白いという噂を聞き付けました！気になるけど、�
 
 # マジェスティ 日本語版
 <a href="https://affiliate.suruga-ya.jp/modules/af/af_jump.php?user_id=2842&amp;goods_url=https%3A%2F%2Fwww.suruga-ya.jp%2Fproduct%2Fdetail%2F607121022001" rel="nofollow"><img src="https://www.suruga-ya.jp/pics/boxart_m/607121022m.jpg"></a>  
-[[駿河屋]マジェスティ](https://goo.gl/73bK3F) 2120円
+[[駿河屋]マジェスティ](https://goo.gl/73bK3F) 2300円
 
 
 宝石の煌き作者の2017年新作。短いプレイ時間にまとまってる。そのため連戦しやすい。Twitterでこの作品好きな人も多い気がしている。
@@ -217,7 +227,7 @@ Twitterで面白いという噂を聞き付けました！気になるけど、�
 # ノーリア 日本語版
 <a href="https://affiliate.suruga-ya.jp/modules/af/af_jump.php?user_id=2842&amp;goods_url=https%3A%2F%2Fwww.suruga-ya.jp%2Fproduct%2Fdetail%2F607122545000" rel="nofollow"><img src="https://www.suruga-ya.jp/pics/boxart_m/607122545m.jpg"></a>  
 [[駿河屋] ノーリア](https://goo.gl/RBRr8j) 4020円  
-[[駿河屋] 新品 ノーリア](https://goo.gl/6xoaxm) 4120円
+[[駿河屋] 新品 ノーリア](https://goo.gl/6xoaxm) 4480円
 
 安っ！プレイ時間は長いけど、それさえ許容できれば アートワーク良いし、ホイール回転悩むのも楽しいし、リソース管理は苦しいし、良い作品だと思う。
 
@@ -229,7 +239,7 @@ Twitterで面白いという噂を聞き付けました！気になるけど、�
 
 # ル・アーブル 内陸港 日本語版
 <a href="https://affiliate.suruga-ya.jp/modules/af/af_jump.php?user_id=2842&amp;goods_url=https%3A%2F%2Fwww.suruga-ya.jp%2Fproduct%2Fdetail%2F607044093001" rel="nofollow"><img src="https://www.suruga-ya.jp/pics/boxart_m/607044093m.jpg"></a>  
-[[駿河屋] ル・アーブル 内陸港](https://goo.gl/ne4UJQ ) 2160円  
+~~[[駿河屋] ル・アーブル 内陸港](https://goo.gl/ne4UJQ)~~
 [[Amazon] ル・アーブル 内陸港](https://amzn.to/2B8SVcd) 3240円  
 
 所持済み。ウヴェ様の2人専用ゲームの中でこれが一番好き。しっかりゲームした感を得られる満足感の高い作品。ついつい再戦を挑んでしまう。入手難になる前に確保しておくべき作品
@@ -249,7 +259,7 @@ Twitterで面白いという噂を聞き付けました！気になるけど、�
 
 # キングスロード
 <a href="https://affiliate.suruga-ya.jp/modules/af/af_jump.php?user_id=2842&amp;goods_url=https%3A%2F%2Fwww.suruga-ya.jp%2Fproduct%2Fdetail%2F607125747001" rel="nofollow"><img src="https://www.suruga-ya.jp/pics/boxart_m/607125747m.jpg"></a>  
-[[駿河屋] キングスロード](https://goo.gl/dxAnHE) 4190円 (訳なし)
+[[駿河屋] キングスロード](https://goo.gl/dxAnHE) 4350円 (訳なし)
 
 クニツィアのキックスターター作品が駿河屋に登場！
 クニツィア好きとしては気になる作品。キック案件がこのお値段って安くない？もう一般流通してるんだっけ？
@@ -257,15 +267,15 @@ Twitterで面白いという噂を聞き付けました！気になるけど、�
 
 # ロールプレイヤー 日本語版
 <a href="https://affiliate.suruga-ya.jp/modules/af/af_jump.php?user_id=2842&amp;goods_url=https%3A%2F%2Fwww.suruga-ya.jp%2Fproduct%2Fdetail%2F607125694001" rel="nofollow"><img src="https://www.suruga-ya.jp/pics/boxart_m/607125694m.jpg"></a>  
-[[駿河屋]中古 ロールプレイヤー](https://goo.gl/rZHY6i ) 4950円  
-[[駿河屋] 新品　ロールプレイヤー](https://goo.gl/DEDk9J ) 6264円  
-[[Amazon] ロールプレイヤー](https://amzn.to/2nztreu ) Amazon 5445円  
+[[駿河屋]中古 ロールプレイヤー](https://goo.gl/rZHY6i) 4950円  
+~~[[駿河屋] 新品　ロールプレイヤー](https://goo.gl/DEDk9J ) 6264円~~  
+[[Amazon] ロールプレイヤー](https://amzn.to/2nztreu ) Amazon 6375円  
 
 購入済み。発送待ち。評判の良い作品！キャラクターのステータスを操作するってワクワクしそう！
 
-# エアライン ヨーロッパ 日本語版
+# ~~エアライン ヨーロッパ 日本語版~~
 <a href="https://affiliate.suruga-ya.jp/modules/af/af_jump.php?user_id=2842&amp;goods_url=https%3A%2F%2Fwww.suruga-ya.jp%2Fproduct%2Fdetail%2F607911134001" rel="nofollow"><img src="https://www.suruga-ya.jp/pics/boxart_m/607911134m.jpg"></a>  
-[[駿河屋] エアライン・ヨーロッパ](https://goo.gl/P6j94w ) 3650円  
+~~[[駿河屋] エアライン・ヨーロッパ](https://goo.gl/P6j94w)~~  
 
 破損品だが、勝利点チップ1個に汚れあり程度なので、そのチップ使わなきゃ良いだけでは？Twitterのタイムラインでたまに見かけて、評価の高いゲームだった気がする。BGG 7.3。古典名作って感じ？
 
@@ -277,12 +287,12 @@ Twitterで面白いという噂を聞き付けました！気になるけど、�
 
 # フォークラウンアンドキングダム（訳なし）
 <a href="https://affiliate.suruga-ya.jp/modules/af/af_jump.php?user_id=2842&amp;goods_url=https%3A%2F%2Fwww.suruga-ya.jp%2Fproduct%2Fdetail%2F607131008001" rel="nofollow"><img src="https://www.suruga-ya.jp/pics/boxart_m/607131008m.jpg"></a>  
-[[駿河屋]フォークラウンアンドキングダム](https://goo.gl/pRz8Xv) 6120円  
+[[駿河屋]フォークラウンアンドキングダム](https://goo.gl/pRz8Xv) 6350円  
 所持済み。珍しいのが駿河屋に入ってる。これ面白いよ！運要素は少なめなゲーム。コンポーネントの雰囲気Good! 定期的にプレイしたいゲーム。直接攻撃も少しあるので、苦手な人は注意。自作和訳あるのでシェアできます。
 
-# ズーロレット拡張 XXL（訳なし）
+# ~~ズーロレット拡張 XXL（訳なし）~~
 <a href="https://affiliate.suruga-ya.jp/modules/af/af_jump.php?user_id=2842&amp;goods_url=https%3A%2F%2Fwww.suruga-ya.jp%2Fproduct%2Fdetail%2F607130828001" rel="nofollow"><img src="https://www.suruga-ya.jp/pics/boxart_m/607130828m.jpg"></a>  
-[[駿河屋]ズーロレット拡張XXL](https://goo.gl/yFRPAB ) 2620円
+~~[[駿河屋]ズーロレット拡張XXL](https://goo.gl/yFRPAB)~~
 
 ズーロレットの拡張はXXLがオススメ！というツイートを見たのでご紹介。
 
@@ -294,21 +304,21 @@ Twitterで面白いという噂を聞き付けました！気になるけど、�
 
 # ハーバー 日本語版
 <a href="https://affiliate.suruga-ya.jp/modules/af/af_jump.php?user_id=2842&amp;goods_url=https%3A%2F%2Fwww.suruga-ya.jp%2Fproduct%2Fdetail%2F607108261001" rel="nofollow"><img src="https://www.suruga-ya.jp/pics/boxart_m/607108261m.jpg"></a>  
-[[駿河屋] ハーバー](https://goo.gl/usHcYt ) 1850円
+[[駿河屋] ハーバー](https://goo.gl/usHcYt) 2080円
 
 所持済み。自信をもってオススメする40分ゲーム。アクションが描かれているカードに自駒を配置して資源を集めていく。フルーツジュース的システム。資源で施設を買っていく。誰かが購入する度、資源相場大変動。支払った資源は余剰を残せずすべて0！
 
 # スモールワールド拡張 スカイアイランド
 <a href="https://affiliate.suruga-ya.jp/modules/af/af_jump.php?user_id=2842&amp;goods_url=https%3A%2F%2Fwww.suruga-ya.jp%2Fproduct%2Fdetail%2F607123699000" rel="nofollow"><img src="https://www.suruga-ya.jp/pics/boxart_m/607123699m.jpg"></a>  
-[[駿河屋] 新品 スモールワールド拡張 スカイアイランド](https://goo.gl/75aRrt) 2500円  
-[[Amazon]スモールワールド拡張 スカイアイランド](https://amzn.to/2wi4jNk) 2704円
+[[駿河屋] 新品 スモールワールド拡張 スカイアイランド](https://goo.gl/75aRrt) 2780円  
+[[Amazon]スモールワールド拡張 スカイアイランド](https://amzn.to/2wi4jNk) 2402円
 
 スモールワールドが6人までプレイできる！購入して積んでる案件。
 スモールワールドは色んな種族&特殊能力、ファンタジーな世界観がgood。友達からの評判もとても高い一作。
 
 # 大墟古鎮(DAXU)
 <a href="https://affiliate.suruga-ya.jp/modules/af/af_jump.php?user_id=2842&amp;goods_url=https%3A%2F%2Fwww.suruga-ya.jp%2Fproduct%2Fdetail%2F607113032001" rel="nofollow"><img src="https://www.suruga-ya.jp/pics/boxart_m/607113032m.jpg"></a>  
-[[駿河屋] 大墟古鎮](https://goo.gl/LTziMn) 2440円  
+[[駿河屋] 大墟古鎮](https://goo.gl/LTziMn) 2550円  
 
 2人用ゲーム、バトルライン的に各行で勝敗を決めていく。買ったときに僅差で勝つと勝利点が高い！差をつけると、むしろ負けた側に勝利点が入るシステム！カードデザインも良いし気になってる。
 
