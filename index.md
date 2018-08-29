@@ -48,9 +48,79 @@ GitHubを使ったことが無い方には見難いと思うので、更新履�
 
 <!-- /TOC -->
 
+# キー・トゥ・ザ・シティ：ロンドン（訳付き）
+<a href="https://affiliate.suruga-ya.jp/modules/af/af_jump.php?user_id=2842&amp;goods_url=https%3A%2F%2Fwww.suruga-ya.jp%2Fproduct%2Fdetail%2F607104721001" rel="nofollow"><img src="https://www.suruga-ya.jp/pics/boxart_m/607104721m.jpg"></a>  
+[[駿河屋]キー・トゥ・ザ・シティ：ロンドン](https://goo.gl/wuQ8bX) 4140円  
+
+所持済み。大好きな作品。ずいぶん値下がったので紹介。ミープルを使ってタイルを競り自分の街を作っていく。ゲーム毎に得点要素も変わりリプレイ性高い。ミープル管理・資源管理・タイル能力などなど。
+
+# オケアノス（訳つき）
+<a href="https://affiliate.suruga-ya.jp/modules/af/af_jump.php?user_id=2842&amp;goods_url=https%3A%2F%2Fwww.suruga-ya.jp%2Fproduct%2Fdetail%2F607104724001" rel="nofollow"><img src="https://www.suruga-ya.jp/pics/boxart_m/607104724m.jpg"></a>  
+[[駿河屋]オケアノス] 4500円  
+
+所持済み。海を探検して色んな生き物を発見したり、宝箱をサルベージしたり、クラーケンに襲われたり。インスト込みで1時間だったかな？ポップなデザインながら、燃料の使い所や潜水艦のアップグレード等悩むところもしっかりあってお気に入りの一作。初心者へ次の一歩にオススメするにも良い作品。  
+Amazonで高騰してたので、買うなら今かも！和訳付き流通って再販あまりないよね？そんなことない？
+
+# パパ・パオロ（訳つき）
+<a href="https://affiliate.suruga-ya.jp/modules/af/af_jump.php?user_id=2842&amp;goods_url=https%3A%2F%2Fwww.suruga-ya.jp%2Fproduct%2Fdetail%2F607105721001" rel="nofollow"><img src="https://www.suruga-ya.jp/pics/boxart_m/607105721m.jpg"></a>  
+[[駿河屋]パパ・パオロ](https://goo.gl/o42wuM) 4550円  
+[[駿河屋]パパ・パオロ](https://goo.gl/ter1rh) 5500円  
+
+積んでる作品。なぜ値段が2種類なのかは不明。少し前にTwitterで面白い！と話題になってあっという間に在庫が消えた作品。コンポーネントたっぷりでテンション上がる。テーマも個人的に好き
+
+# ツーモルトロイヤル（訳つき）
+<a href="https://affiliate.suruga-ya.jp/modules/af/af_jump.php?user_id=2842&amp;goods_url=https%3A%2F%2Fwww.suruga-ya.jp%2Fproduct%2Fdetail%2F607093577001" rel="nofollow"><img src="https://www.suruga-ya.jp/pics/boxart_m/607093577m.jpg"></a>  
+[[駿河屋]ツーモルトロイヤル](https://goo.gl/mjGrPV) 1650円  
+
+積んでる作品。最近安かったけど、ここまで値下げしますか！コンポーネントしっかりした大箱だよ？リアルタイム資源獲得とかあって初心者でも楽しめるし、悪くない作品だよ？安すぎない？
+
+# ラ・イスラ（訳なし）
+<a href="https://affiliate.suruga-ya.jp/modules/af/af_jump.php?user_id=2842&amp;goods_url=https%3A%2F%2Fwww.suruga-ya.jp%2Fproduct%2Fdetail%2F607085092001" rel="nofollow"><img src="https://www.suruga-ya.jp/pics/boxart_m/607085092m.jpg"></a>  
+[[駿河屋]ラ・イスラ](https://goo.gl/AYZxeB) 3500円  
+
+この前買ったゲーム。フェルトの人気作のひとつ。各種ブログで評判だったので悩まず購入。フェルトにしては短時間で終わるらしい。熱帯雨林のボードが雰囲気バッチリ。コンポーネントしっかりしてるし、この値段破格では？
+
+# ベルズ 日本語版
+<a href="https://affiliate.suruga-ya.jp/modules/af/af_jump.php?user_id=2842&amp;goods_url=https%3A%2F%2Fwww.suruga-ya.jp%2Fproduct%2Fdetail%2F607115756001" rel="nofollow"><img src="https://www.suruga-ya.jp/pics/boxart_m/607115756m.jpg"></a>  
+[[駿河屋] ベルズ](https://goo.gl/wdbyiX) 3000円  
+
+パーティーゲーム。インスト簡単。盛り上がる。短時間。磁石のついたペンで色とりどりの鈴をゲットしていくゲームです。一回の手番で複数個の鈴を獲得できますが、同色のみ。もし磁石に他の色の鈴が付いたらNG！時間調整にも重宝するゲーム
+
+# グリュックス 日本語版
+<a href="https://affiliate.suruga-ya.jp/modules/af/af_jump.php?user_id=2842&amp;goods_url=https%3A%2F%2Fwww.suruga-ya.jp%2Fproduct%2Fdetail%2F607116216001" rel="nofollow"><img src="https://www.suruga-ya.jp/pics/boxart_m/607116216m.jpg"></a>  
+[[駿河屋]グリュックス](https://goo.gl/aeMfG9) 2800円  
+[[Amazon]グリュックス](https://amzn.to/2LE9A7z) 3800円  
+
+購入検討中。日本語版が出る前から気になってる作品。それだけTwitterやブログでの評判が良いのです。ゲームとしてはアブストラクト的。盤面はカラフル。BGG7.2
+
+# クウィックス デュエル(訳つき)
+<a href="https://affiliate.suruga-ya.jp/modules/af/af_jump.php?user_id=2842&amp;goods_url=https%3A%2F%2Fwww.suruga-ya.jp%2Fproduct%2Fdetail%2F607124131001" rel="nofollow"><img src="https://www.suruga-ya.jp/pics/boxart_m/607124131m.jpg"></a>  
+[[駿河屋]クウィックス デュエル](https://goo.gl/hD27Zh) 3500円  
+
+名作クウィックスの2人用。オリジナルのクウィックスも2人プレイでプレイするの楽しいのですよ。デュエルではコンポーネントが豪華に、シートもホワイドボード加工。ヒットやブロック等の新しい要素もプラスになっているそう。
+
+# バレッタ（訳なし）
+<a href="https://affiliate.suruga-ya.jp/modules/af/af_jump.php?user_id=2842&amp;goods_url=https%3A%2F%2Fwww.suruga-ya.jp%2Fproduct%2Fdetail%2F607118700001" rel="nofollow"><img src="https://www.suruga-ya.jp/pics/boxart_m/607118700m.jpg"></a>  
+[[駿河屋]バレッタ](https://goo.gl/TVdgKQ) 6000円  
+
+ステファン・ドラのデッキ構築ゲーム。
+一時期Twitterで話題になってました。評判も上々だった記憶があります。カードゲームだけどボードとコマがあるのがうれしいところ。BGG7.1.米アマだと$23.58
+
+# デジャブ（訳付き）
+<a href="https://affiliate.suruga-ya.jp/modules/af/af_jump.php?user_id=2842&amp;goods_url=https%3A%2F%2Fwww.suruga-ya.jp%2Fproduct%2Fdetail%2F607110245001" rel="nofollow"><img src="https://www.suruga-ya.jp/pics/boxart_m/607110245m.jpg"></a>  
+[[駿河屋]デジャブ](https://goo.gl/iP9Uu2) 2600円  
+
+まず最初にこれを伝えなければいけない。
+いつの間にかデジャブ入手難になってますよ！
+現状定価以下でオンラインで買えるのはここだけじゃないかな？
+Amazonの日本語版は5500円まで高騰してました。
+気になってる・お好きな方は急げ！  
+イラストの描かれたカードをめくっていき、同じイラストが2回出たら早いもの勝ちでそのイラストのタイルを獲得！×3ゲーム。だんだんと記憶がこんがらがって難易度がアップ。インスト簡単。盛り上がる。お気に入りのパーティーゲームのひとつ。得意不徳が出るので注意。私は得意。
+
 # アウトリブ 日本語版
 <a href="https://affiliate.suruga-ya.jp/modules/af/af_jump.php?user_id=2842&amp;goods_url=https%3A%2F%2Fwww.suruga-ya.jp%2Fproduct%2Fdetail%2F607115402001" rel="nofollow"><img src="https://www.suruga-ya.jp/pics/boxart_m/607115402m.jpg"></a>  
 [[駿河屋]アウトリブ](https://goo.gl/b8WCU4 ) 3730円  
+
 購入検討中。戦争によって破壊された地球で、資源や道具をあつめ生き残るゲーム！映画や漫画のようなテーマでテンション上がる！キャラクターによって使える施設が違うのもリプレイ性高くてグッド。拡大再生産も大好き。BGG7.6。
 
 # タージ・マハル 日本語版
