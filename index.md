@@ -59,8 +59,8 @@
 <!-- /TOC -->
 
 # キー・トゥ・ザ・シティ：ロンドン（訳付き）
-<a href="https://affiliate.suruga-ya.jp/modules/af/af_jump.php?user_id=2842&amp;goods_url=https%3A%2F%2Fwww.suruga-ya.jp%2Fproduct%2Fdetail%2F607104721001" rel="nofollow"><img src="https://www.suruga-ya.jp/pics/boxart_m/607104721m.jpg"></a>  
-[[駿河屋]キー・トゥ・ザ・シティ：ロンドン](https://goo.gl/wuQ8bX) 4140円  
+<a href="https://affiliate.suruga-ya.jp/modules/af/af_jump.php?user_id=2842&amp;goods_url=https%3A%2F%2Fwww.suruga-ya.jp%2Fproduct%2Fdetail%2F607104721001" rel="nofollow" target="_blank"><img src="https://www.suruga-ya.jp/pics/boxart_m/607104721m.jpg"></a>  
+[[駿河屋]キー・トゥ・ザ・シティ：ロンドン](https://goo.gl/wuQ8bX){:target="_blank"} 4140円  
 
 所持済み。大好きな作品。ずいぶん値下がったので紹介。ミープルを使ってタイルを競り自分の街を作っていく。ゲーム毎に得点要素も変わりリプレイ性高い。ミープル管理・資源管理・タイル能力などなど。
 
