@@ -324,7 +324,9 @@ Twitterで面白いという噂を聞き付けました！気になるけど、�
 
 # メトロ(訳つき)
 <a href="https://affiliate.suruga-ya.jp/modules/af/af_jump.php?user_id=2842&amp;goods_url=https%3A%2F%2Fwww.suruga-ya.jp%2Fproduct%2Fdetail%2F607040321001" rel="nofollow" target="_blank"><img src="https://www.suruga-ya.jp/pics/boxart_m/607040321m.jpg"></a>  
-[[駿河屋]メトロ](https://goo.gl/DER5YT){:target="_blank"} 5000円  
+[[駿河屋]メトロ 新品](https://goo.gl/YRKSa5){:target="_blank"} 5300円  
+
+[[駿河屋]メトロ 中古](https://goo.gl/DER5YT){:target="_blank"} 4750円  
 
 タイルを配置して自分の列車を長い距離走らせるゲーム。パズルゲーム感がありそう。
 ここ数年、このゲームを買おうか。サンフランシスコケーブルカーを買おうか悩んでる。
@@ -337,15 +339,18 @@ Twitterで面白いという噂を聞き付けました！気になるけど、�
 # ~~クアドロポリス~~
 [品切れ中](https://goo.gl/BkG1xL )
 # ~~トバゴ~~
-[品切れ中](goo.gl/Y82DV3)
+[品切れ中](https://goo.gl/Y82DV3)
 
 # ~~ヤマタイ~~
-[訳付き1万円](https://affiliate.suruga-ya.jp/modules/af/af_jump.php?user_id=2842&goods_url=https%3A%2F%2Fwww.suruga-ya.jp%2Fproduct%2Fdetail%2F607120995001){:target="_blank"}  
-[訳なし品切れ](goo.gl/Bwwbsy)
+[訳付き9500円円](https://affiliate.suruga-ya.jp/modules/af/af_jump.php?user_id=2842&goods_url=https%3A%2F%2Fwww.suruga-ya.jp%2Fproduct%2Fdetail%2F607120995001){:target="_blank"}  
+[訳なし品切れ](https://goo.gl/Bwwbsy)
 
-# ~~シュタイウファー~~
-[品切れ](goo.gl/eVMoLk)
+# シュタウファー 日本語版
+<a href="https://affiliate.suruga-ya.jp/modules/af/af_jump.php?user_id=2842&amp;goods_url=https%3A%2F%2Fwww.suruga-ya.jp%2Fproduct%2Fdetail%2F607091760001" rel="nofollow" target="_blank"><img src="https://www.suruga-ya.jp/pics/boxart_m/607091760m.jpg"></a>  
+[[駿河屋]シュタウファー](https://goo.gl/eVMoLk) 4800円  
+積んでる作品。面白いらしいよ！盤面のデザインも良いし期待してる作品。BGG7.2。
 
-# ~~フライングキウイ~~
-[品切れ](goo.gl/M9ZmFu){:target="_blank"}  
+# フライングキウイ（訳つき）
+<a href="https://affiliate.suruga-ya.jp/modules/af/af_jump.php?user_id=2842&amp;goods_url=https%3A%2F%2Fwww.suruga-ya.jp%2Fproduct%2Fdetail%2F607126561000" rel="nofollow" target="_blank"><img src="https://www.suruga-ya.jp/pics/boxart_m/607126561m.jpg"></a>  
+[[駿河屋] フライングキウイ 新品](https://goo.gl/M9ZmFu){:target="_blank"}　3200円  
 パーティーゲームを探してるなら購入必須！キウイ(動物)のチップを箱に投げ込むだけなんですが、これが予想以上に面白い！大爆笑&大盛り上がり。プレイ人数が4人までなのが悔しい！
